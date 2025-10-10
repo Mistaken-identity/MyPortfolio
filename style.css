@@ -323,7 +323,7 @@ button { cursor: pointer; }
     width: 100%; 
     border: 2px solid var(--text-color); 
     background-color: transparent; 
-    padding: 0.6rem 1.2rem; 
+    padding: 0.6rem 1.3rem; 
     color: var(--title-color); 
     font-weight: var(--font-medium); 
     font-size: var(--normal-font-size); 
